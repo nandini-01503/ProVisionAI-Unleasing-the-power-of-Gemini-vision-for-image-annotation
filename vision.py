@@ -7,7 +7,7 @@ from PIL import Image
 import io
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyD9BekTB0ncpJ8tq0qudsHDgYwjt4uFcuU")  # Replace with your actual API key
+genai.configure(api_key="Google_API_key")  # Replace with your actual API key
 
 # Streamlit UI
 st.title("ProVisionAI: Image Annotation with Gemini Vision")
